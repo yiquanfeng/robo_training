@@ -1,0 +1,3 @@
+/home/yqf/code/stm32_code/demo/CMakeFiles/tutor.dir
+/home/yqf/code/stm32_code/demo/CMakeFiles/edit_cache.dir
+/home/yqf/code/stm32_code/demo/CMakeFiles/rebuild_cache.dir
